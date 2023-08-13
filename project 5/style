@@ -9,7 +9,7 @@ p {
     color: black;
     font-size: 40px;
     font-weight: lighter;
-    font-style: oblique;
+    font-style: italic;
 }
 
 ul {
